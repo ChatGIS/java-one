@@ -7,22 +7,22 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: 'Java入门', link: '/java/java0101' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Java入门教程',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '你好, Java', link: '/java/java0101' },
+          { text: 'Java基本语法', link: '/java/java0201' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ChatGIS/java-one' }
     ]
   }
 })
