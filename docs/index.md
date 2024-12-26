@@ -1,25 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: doc
-
-# hero:
-  # name: "Java One"
-  # text: "One notebook of Java"
-  # tagline: Java学习课程
-  # actions:
-  #   - theme: brand
-  #     text: Java入门
-  #     link: /java/java0101
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
-
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
+## Java One
+Java One (Java集、Java一本书)，用于个人整理Java相关的学习内容，包括文章以及源码。
