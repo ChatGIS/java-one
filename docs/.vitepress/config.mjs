@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/java-one/',
   title: "Java One",
+  head: [['link', { rel: 'icon', href: 'https://chatgis.space/images/favicon.png' }]],
   description: "One notebook of Java",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
