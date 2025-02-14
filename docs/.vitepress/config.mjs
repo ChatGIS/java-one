@@ -10,15 +10,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: 'Java入门', link: '/java/java0101' }
+      { text: 'Java入门', link: '/articles/01/01' }
     ],
 
     sidebar: [
       {
         text: 'Java入门教程',
         items: [
-          { text: '你好, Java', link: '/java/java0101' },
-          { text: 'Java基本语法', link: '/java/java0201' },
+          { text: '你好, Java', link: '/articles/01/01' },
+          { text: 'Java基本语法', link: '/articles/01/01' },
         ]
       }
     ],
