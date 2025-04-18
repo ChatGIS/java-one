@@ -20,8 +20,12 @@ export default defineConfig({
           { text: '你好, Java', link: '/articles/01/01' },
           { text: 'Java基本语法', link: '/articles/01/01' },
         ]
-      },
-      {
+      }, {
+        text: '基础语法',
+        items: [
+          {text: '访问修饰符', link: '/articles/02/01'}
+        ]
+      }, {
         text: 'Spring Cloud Greenwich',
         items: [
           { text: 'Spring Cloud版本说明', link: '/articles/10/01' },
