@@ -21,9 +21,10 @@ export default defineConfig({
           { text: 'Java基本语法', link: '/articles/01/01' },
         ]
       }, {
-        text: '基础语法',
+        text: '异常处理',
         items: [
-          {text: '访问修饰符', link: '/articles/02/01'}
+          {text: '异常类继承层次', link: '/articles/09/01'},
+          {text: 'tyr-catch', link: '/articles/09/02'},
         ]
       }, {
         text: 'Spring Cloud Greenwich',
