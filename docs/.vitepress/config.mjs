@@ -25,6 +25,7 @@ export default defineConfig({
         items: [
           {text: '异常类继承层次', link: '/articles/09/01'},
           {text: 'tyr-catch', link: '/articles/09/02'},
+          {text: 'finally', link: '/articles/09/03'},
         ]
       }, {
         text: 'Spring Cloud Greenwich',
