@@ -1,6 +1,6 @@
 {
   "name": "java-one",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "One notebook of Java",
   "main": "index.js",
   "devDependencies": {
