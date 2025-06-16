@@ -20,7 +20,11 @@ export default defineConfig({
         items: [
           {
             text: "你好, Java",
-            items: [{ text: "Java基本语法", link: "/articles/01/01" }],
+            items: [
+              { text: "Java概述", link: "/articles/01/01" },
+              { text: "下载安装", link: "/articles/01/02" },
+              { text: "Hello World", link: "/articles/01/03" },
+            ],
           },
           {
             text: "异常处理",
